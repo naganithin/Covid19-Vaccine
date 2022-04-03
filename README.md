@@ -26,5 +26,5 @@ All the information is stored in Blockchain using Smart contracts. They are conn
 - Metamask
 - Matic Testnet
 
-![Screenshot from 2022-04-03 23-42-52](https://user-images.githubusercontent.com/56812010/161442164-f5e3f2d4-1d31-42a8-b16b-72343f2de506.png)
 # Home Page
+![Screenshot from 2022-04-03 23-42-52](https://user-images.githubusercontent.com/56812010/161442164-f5e3f2d4-1d31-42a8-b16b-72343f2de506.png)
