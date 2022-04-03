@@ -22,7 +22,6 @@ All the information is stored in Blockchain using Smart contracts. They are conn
 # Technologies and Languages Used
 - Solidity
 - Web3
-- React
 - Truffle
 - Metamask
 - Matic Testnet
